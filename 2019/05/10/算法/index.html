@@ -614,6 +614,9 @@
           
 
   
+    <div id="gitalk-container">
+    </div>
+  
 
 
 
@@ -906,6 +909,23 @@
 
 
 
+
+
+
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+   <script type="text/javascript">
+        var gitalk = new Gitalk({
+          clientID: '3ca9f7208433b57c29ab',
+          clientSecret: '5489368e9d1c2d4a1f362656b16500dd0f93efe9',
+          repo: 'reewx.github.io',
+          owner: 'reewx',
+          admin: ['reewx'],
+          id: location.pathname,
+          distractionFreeMode: 'true'
+        })
+        gitalk.render('gitalk-container')           
+       </script>
 
 
 
