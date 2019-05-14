@@ -13,6 +13,7 @@ categories:
 
 ## Hexo介绍
 
+test
 [Hexo](https://hexo.io/zh-cn/)是基于`NodeJs`的静态博客框架，简单、轻量，其生成的静态网页可以托管在`Github`和`Heroku`上。
 
 * 超快速度
