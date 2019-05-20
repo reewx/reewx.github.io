@@ -1,11 +1,8 @@
 ---
 title: hexo博客搭建
 date: 2014-05-10 15:58:19
-tags:
-        - 博客搭建
-categories:
-        - 基础
 ---
+
 ![](uploads/a7691515_s.jpg)
 
 <!-- more -->
